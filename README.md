@@ -101,5 +101,18 @@ Gantt charts are powerful tools for creating and managing detailed project sched
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
 ## 11. What are the main features or functionalities that make your software stand out?
+- It is secure and keeps data and functions safe from malicious attacks
+- The software is designed to thrive in a changing environment, incorporating factors such as flexibility, scalability, and reusability
+- It integrates with other tools easily.
+- User can tailor it to fit their needs and is easy to use.
+- The software can be applied to a range of businesses.
+
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+- While talking about the size of the market and its further growth in relation to a software product, it is necessary to focus on industry-specific information, tendencies and forecasts.
+  
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- It helps ensure that the products meet the current and future needs of the market by:
+  * Helping identify customer needs and preferences.
+  * Signaling the adoption of new technologies
+  * helps you to prioritize your development efforts on features that align with these trends.
