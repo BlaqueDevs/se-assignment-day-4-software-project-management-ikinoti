@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15640796&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 - Timely delivery is crucial in software project management for the following reasons:
@@ -99,5 +101,18 @@ Gantt charts are powerful tools for creating and managing detailed project sched
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
 ## 11. What are the main features or functionalities that make your software stand out?
+- It is secure and keeps data and functions safe from malicious attacks
+- The software is designed to thrive in a changing environment, incorporating factors such as flexibility, scalability, and reusability
+- It integrates with other tools easily.
+- User can tailor it to fit their needs and is easy to use.
+- The software can be applied to a range of businesses.
+
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+- While talking about the size of the market and its further growth in relation to a software product, it is necessary to focus on industry-specific information, tendencies and forecasts.
+  
 ## 13. How can understanding market trends inform your software’s positioning and development?
+- It helps ensure that the products meet the current and future needs of the market by:
+  * Helping identify customer needs and preferences.
+  * Signaling the adoption of new technologies
+  * helps you to prioritize your development efforts on features that align with these trends.
